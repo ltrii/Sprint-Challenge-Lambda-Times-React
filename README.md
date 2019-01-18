@@ -32,7 +32,6 @@ Look through the application code. If you have the old Lambda Times (Applied Jav
 - [ ] Describe a life-cycle event in React?
 - [ ] Explain the details of a Higher Order Component?
 - [ ] What are three different ways to style components in React? Explain some of the benefits of each.
-
 ## Project Setup
 
 Follow these steps to set up your project:
