@@ -8,6 +8,12 @@ Unmount - "disconnect" components and end process.
 
 3. Explain the details of a Higher Order Component?
 
+A component that uses another component to complete it's logic.
 
 4. What are three different ways to style components in React? Explain some of the benefits of each.
-Inline CSS, CSS in JS, and styled components.
+Traditional CSS - Familiar. Easy to use and import.
+
+Inline styling JSX - "To the point" and more direct form of styling. Can make code convoluted, but can also be highly tied to logic.
+
+styled components - Making your own CSS containing components that you can implement into your JSX for clarity and control.
+
